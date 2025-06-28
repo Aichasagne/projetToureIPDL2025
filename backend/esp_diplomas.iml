@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
   <component name="FacetManager">
@@ -13,20 +12,4 @@
       </configuration>
     </facet>
   </component>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
-  <component name="FacetManager">
-    <facet type="jpa" name="JPA">
-      <configuration>
-        <setting name="validation-enabled" value="true" />
-        <setting name="provider-name" value="Hibernate" />
-        <datasource-mapping>
-          <factory-entry name="entityManagerFactory" value="bf369837-2700-433a-84a1-9f1ae6460e81" />
-        </datasource-mapping>
-        <naming-strategy-map />
-      </configuration>
-    </facet>
-  </component>
->>>>>>> ff72f9ff3699386ffcb2638e42f7767a6addeee9
 </module>
